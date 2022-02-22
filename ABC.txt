@@ -1,2 +1,2 @@
-the file name is ABC.
+the name of this file is ABC2.txt
 This file is now modified in branch2
