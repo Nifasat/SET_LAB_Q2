@@ -1,1 +1,2 @@
 the file name is ABC.
+This file is now modified in branch2
